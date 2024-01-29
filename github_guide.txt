@@ -1,0 +1,9 @@
+
+1.Create Account on the github.
+2.Create Repository.
+3.Instance github client of the your loptop.
+4.Clone repository from server to client.
+git clone https://github.com/yogitasdet/GTMPythonSeleniumTraining.git
+
+git config --global user.email "ykarnatak@gmail.com"
+git config --global user.name "yogitasdet"
